@@ -1,7 +1,4 @@
 ## The makeCacheMatrix function will first set the matrix, solve it's inverse and cache the result.
-## Then 
-
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
